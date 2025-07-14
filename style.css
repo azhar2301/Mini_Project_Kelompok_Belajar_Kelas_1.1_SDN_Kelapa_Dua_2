@@ -1,0 +1,84 @@
+body{
+  font-family: tahoma;
+  background-image: url('sdn.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.header{
+    font-size: 2em;
+    color: white;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgb(19, 64, 159);
+    padding-top: px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.header1{
+    margin-top: -15px;
+    font-size: 1.5em;
+    color: white;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgb(19, 64, 159);
+    padding-top: px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.box-preview{
+    width: 300px;
+    /* background-color: aliceblue; */
+    padding: 10px;
+    margin: 20px;
+}
+
+.box-preview-title{
+    font-size: 1.3em;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    background-color: rgb(23, 139, 160);
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.box-preview-credit{
+    margin-top: -20px;
+    display: flex;
+    justify-content: center;
+    padding-right: 50px;
+    background-color: rgb(23, 139, 160);
+    border-radius: 15px;
+    padding-left: 30px;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    margin-top: -25px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    margin-top: -25px;
+}
